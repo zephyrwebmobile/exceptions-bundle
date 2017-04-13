@@ -29,7 +29,6 @@
     },
 
     "require": {
-        "symfony/twig-bundle": "~2.2"
     },
 
     "require-dev": {
